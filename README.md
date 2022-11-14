@@ -15,3 +15,5 @@ Things like user interface decorators or themes are personal choices that should
 
 - If you're adding a single devcontainer.json file that will be used by everyone who creates a codespace from your repository, create the file within a .devcontainer directory at the root of the repository.
 - If you want to offer users a choice of configuration, you can create multiple custom devcontainer.json files, each located within a separate subdirectory of the .devcontainer directory.
+
+Reference possible fields for the configuration file [here](https://containers.dev/implementors/json_reference/).
