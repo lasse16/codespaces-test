@@ -1,6 +1,6 @@
 # codespaces-test
 
-Playground testing the new Github Codespaces Feature
+Playground testing the new [Github Codespaces](https://docs.github.com/en/codespaces) Feature
 
 ## What to put in CodeSpaces
 
